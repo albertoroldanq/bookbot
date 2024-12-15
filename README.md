@@ -1,2 +1,2 @@
 # bookbot
-Python project to practise
+BookBot is my first project!

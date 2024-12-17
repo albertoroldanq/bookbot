@@ -1,2 +1,2 @@
 # bookbot
-Python CLI project that reports number of characters given any text
+Python CLI project to report how many times each character is present in any given text

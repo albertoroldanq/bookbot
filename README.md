@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Python CLI project that reports number of characters given any text
